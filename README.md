@@ -12,3 +12,8 @@
 <hr>
 <h2>To run:</h2>
 <h5>git clone https://github.com/kerem700916/Python-Prime-Number.git</h5>
+<hr>
+<h2>Contact Info<h2>
+<ul>
+  <li><a href="mailto:guvenkerem2006@gmail.com">Mail</a></li>
+</ul>
